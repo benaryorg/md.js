@@ -46,6 +46,13 @@ careful!
 
 Yes we have an example, it is located in the `demo` directory.
 
+# Tips
+
+* works great with [bootstrap](http://getbootstrap.com)
+* AJAX is possible (if `loadMarkdown()` is called) but should not be used
+
+> _md.js_'s **only** goal is to make a website readable without JavaScript.
+
 # License
 
 MIT License.
