@@ -32,6 +32,8 @@ worth a try. This is because the HTML is generated client-side.
 Not a great disadvantage due to the fact that the rendering is way more
 CPU-intensive.
 
+**More information on everything can be found in the demo.**
+
 # So you got me, how do I use it?
 
 Just include the needed files (_jQuery_ `markdown-converter.js` and `md.js`) and
