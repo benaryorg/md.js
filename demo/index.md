@@ -1,6 +1,7 @@
 # What is this Website?
 
-This website is simply a Markdown file and some JavaScript and a line of PHP.
+This website is a demonstration of [_md.js_](//github.com/benaryorg/md.js) and
+consists of some JavaScript a line of PHP and Markdown.
 
 # What makes it so great?
 
