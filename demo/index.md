@@ -48,7 +48,7 @@ It is possible to use AJAX, but you will have to call `loadMarkdown()` after
 inserting all pre tags.
 Also, you will notice that the complete pre tag with all it's ids, classes and
 other attributes is replaced by a _div_, so take care of that.
-But as the goal of this was, to make a website readable whithout JS, AJAX would
+But as the goal of this was, to make a website readable without JS, AJAX would
 be a waste of my time.
 
 # License
