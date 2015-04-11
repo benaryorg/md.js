@@ -1,6 +1,6 @@
 # What is this Website?
 
-This website is a demonstration of [_md.js_](//github.com/benaryorg/md.js) and
+This website is a demonstration of [_md.js_](https://github.com/benaryorg/md.js) and
 consists of some JavaScript a line of PHP and Markdown.
 
 # What makes it so great?
