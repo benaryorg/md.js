@@ -8,8 +8,8 @@
 	<link rel="stylesheet" href="//static.benary.org/bootstrap-theme-latest-min.css">
 	<script src="//static.benary.org/jquery-latest-min.js"></script>
 	<script src="//static.benary.org/bootstrap-latest-min.js"></script>
-	<script src="//static.benary.org/markdown-converter-min.js"></script>
-	<script src="//static.benary.org/md.js"></script>
+	<script src="../src/markdown-converter-min.js"></script>
+	<script src="../src/md.js"></script>
 </head>
 <body>
 	<div class="container">

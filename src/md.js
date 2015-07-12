@@ -21,17 +21,11 @@
  *
  */
 
-function loadMarkdown()
-{
+document.addEventListener('DOMContentLoaded', function() {
 	var converter=new Markdown.Converter();
 
-	var els=$("pre.mdconv");
-	for(var i=0;i<els.length;i++)
-	{
-		var e=$(els[i]);
-		e.replaceWith("<div>"+converter.makeHtml(e.html())+"</div>");
+	var items = document.querySelectorAll('pre.mdconv');
+	for (var i = 0; i < items.length; i++) {
+		items[i].outerHTML = converter.makeHtml(items[i].innerHTML);
 	}
-}
-
-$(loadMarkdown);
-
+});
