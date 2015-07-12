@@ -1,7 +1,7 @@
 # What is _md.js_?
 
-_md.js_ is a JavaScript file using jQuery and pagedown to provide a simple and
-clean solution for serving good looking websites.
+_md.js_ is a JavaScript file using pagedown to provide a simple and clean
+solution for serving good looking websites.
 
 # Why should I use _md.js_?
 
@@ -36,8 +36,8 @@ CPU-intensive.
 
 # So you got me, how do I use it?
 
-Just include the needed files (_jQuery_ `markdown-converter.js` and `md.js`) and
-create a `pre` tag and set it's class to `mdconv`.
+Just include the needed files (`markdown-converter.js` and `md.js`) and create
+a `pre` tag and set it's class to `mdconv`.
 
 The complete tag with all attributes will be replaced by a plain `div`, so be
 careful!
