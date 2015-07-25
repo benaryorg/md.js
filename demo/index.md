@@ -21,7 +21,7 @@ consists of some JavaScript a line of PHP and Markdown.
 
 ## Files
 
-You need jQuery, pagedown and md.js.
+You need pagedown and md.js.
 
 The files are included in the example, just wget them if you are lazy.
 
