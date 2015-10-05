@@ -7,7 +7,7 @@ solution for serving good looking websites.
 
 _md.js_'s **only** goal is to make a website readable without JavaScript.
 
-A side-effect is that you can write beatiful websites using Markdown.
+A side-effect is that you can write beautiful websites using Markdown.
 
 ## And what happens if I use it?
 
