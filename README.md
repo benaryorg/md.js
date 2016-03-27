@@ -44,7 +44,8 @@ careful!
 
 ## Do you hav.…
 
-Yes we have an example, it is located in the `demo` directory.
+Yes we have an example, it resides on the `gh-pages` branch, also hosted
+[here](https://benaryorg.github.io/md.js/).
 
 # Tips
 
