@@ -29,7 +29,11 @@ The files are included in the example, just wget them if you are lazy.
 
 ### This
 
-This website is available here: [index.php](index.txt) and [index.md](index.md).
+This website is available here:
+
+- [PHP Version](index.txt)
+- [Markdown Part](index.md)
+- [Plain HTML](view-source:index.html)
 
 ### Pictures
 
